@@ -112,6 +112,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenfreezer&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
 </div>  
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=greenfreezer&theme=react-dark&hide_border=true&area=true"/>
+<br/>
 
 
 <br>
