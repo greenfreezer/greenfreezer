@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Quick Links</h3>
 <a href="https://github.com/EverythingSuckz"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 <h3 align="right">Profile views</h3>
-<img src="https://count.getloli.com/get/@EverythingSuckz?theme=rule34" alt="" srcset="" align="right">
+<img src="https://count.getloli.com/get/@greenfreezer?theme=rule34" alt="" srcset="" align="right">
 
 <div align="left">
     <a href="https://t.me/EverythingSuckz"><img src="https://img.shields.io/badge/@EverythingSuckz-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
