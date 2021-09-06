@@ -158,6 +158,6 @@ You can click the Preview link to take a look at your changes.
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=annihilatorrrr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="annihilatorrrr" />
     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/>
 </p>
-![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
+![](https://visitor-badge.glitch.me/badge?page_id=greenfreezer)
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/annihilatorrrr/&title=Profile%20Views&edge_flat=true)](https://github.com/annihilatorrrr)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/greenfreezer/&title=Profile%20Views&edge_flat=true)](https://github.com/greenfreezer)
