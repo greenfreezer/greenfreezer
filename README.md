@@ -4,14 +4,14 @@ greenfreezer/greenfreezer is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi, I'm green <img src="./assets/wave.gif" width="30px"></h1>
-<p>I'm Electronics Engineer from Tamilnadu. I'm trying to learn new things!</p>
+<p>I'm Electronics Engineer from 🇮🇳. I'm learn new things!</p>
 <h3>Quick Links</h3>
 <a href="https://github.com/greenfreezer"><img src="https://img.shields.io/github/followers/greenfreezer.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 <h3 align="right">Profile views</h3>
 <img src="https://count.getloli.com/get/@greenfreezer?theme=rule34" alt="" srcset="" align="right">
 
 <div align="left">
-    <a href="https://t.me/EverythingSuckz"><img src="https://img.shields.io/badge/@EverythingSuckz-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
+    <a href="https://t.me/lusiya0"><img src="https://img.shields.io/badge/@EverythingSuckz-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
     <a href="mailto:me@jyothis.gq"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="" srcset=""></a>
     <a href="https://twitter.com/JyothisJayanth"><img src="https://img.shields.io/badge/JyothisJayanth-30302f?style=flat-square&logo=twitter" alt="" srcset=""></a>
 </div>
