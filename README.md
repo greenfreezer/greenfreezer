@@ -4,7 +4,7 @@ greenfreezer/greenfreezer is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi, I'm green <img src="./assets/wave.gif" width="30px"></h1>
-<p>I'm 16 y.o Senior High School student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
+<p>I'm python leaner <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 <h3>Quick Links</h3>
 <a href="https://github.com/EverythingSuckz"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 <h3 align="right">Profile views</h3>
@@ -43,11 +43,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" srcset=""></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" srcset=""></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="" srcset=""></a>
-    <a href="https://guides.github.com/features/mastering-markdown/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="" srcset=""></a>
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="" srcset=""></a>
-    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="" srcset=""></a>
-    <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="" srcset=""></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset=""></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" srcset=""></a>
 </p>
