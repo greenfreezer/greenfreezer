@@ -4,9 +4,9 @@ greenfreezer/greenfreezer is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi, I'm green <img src="./assets/wave.gif" width="30px"></h1>
-<p>I'm python leaner <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
+<p>I'm Electronics Engineer from Tamilnadu. I'm trying to learn new things!</p>
 <h3>Quick Links</h3>
-<a href="https://github.com/EverythingSuckz"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
+<a href="https://github.com/greenfreezer"><img src="https://img.shields.io/github/followers/greenfreezer.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 <h3 align="right">Profile views</h3>
 <img src="https://count.getloli.com/get/@greenfreezer?theme=rule34" alt="" srcset="" align="right">
 
