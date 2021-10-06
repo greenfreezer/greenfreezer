@@ -79,11 +79,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="" srcset="">
 </p>
 
-<h2>☕️ Coffee? yes!</h2>
-<p>
-    <a href="https://www.buymeacoffee.com/EverythingSuckz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
-    <a href="https://paypal.me/EverythingSuckz"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a>
-</p>
+
 <!-- <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="" style="border-radius: 5px; height: 30px;"> -->
 
 <h2>🎧  Now listening </h2>
@@ -126,7 +122,6 @@ You can click the Preview link to take a look at your changes.
 # 🔗 Contanct me via:
 <a href="https://github.com/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
 <a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
-<a href="mailto:tanmoyomg7@gmail.com"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 </br>
 ---
 
