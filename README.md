@@ -3,7 +3,7 @@
 greenfreezer/greenfreezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi, I'm green <img src="./assets/wave.gif" width="30px"></h1>
+<h1>Hi, I'm green <img src=https://telegra.ph/file/dbef401a305af5586f275.mp4" width="30px"></h1>
 <p>I'm Electronics Engineer from 🇮🇳. I'm learn new things!</p>
 <h3>Quick Links</h3>
 <a href="https://github.com/greenfreezer"><img src="https://img.shields.io/github/followers/greenfreezer.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
