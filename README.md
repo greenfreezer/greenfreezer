@@ -41,9 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="" style="border-radius: 5px; height: 30px;"> -->
 
-<h2>🎧  Now listening </h2>
 
-<a href="https://open.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
 
 <h2 align="center">📈 My Github Stats! </h2>
 
