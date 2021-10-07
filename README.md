@@ -80,20 +80,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
-<br>
 
-<h2 align="center">🔪 And Finally!</h2>
-<div align="center">
-    <a href="https://telegra.ph/file/1c792b21289eed6d452a0.jpg"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg" alt="" srcset=""></a>
-    <a href="http://www.5z8.info/twitterhack_x8q2sr_bomb-plans"><img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" alt="" width="260"></a>
-    <!-- <a href=""><img src="https://img.shields.io/badge/NVIDIA%20GT1030-yes%20I'm%20poor!-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""></a> -->
-    <a href="#lang"><img src="https://forthebadge.com/images/badges/uses-html.svg" alt="uses HTML" width="130"></a>    
-</div>
-
-<div align="center"><a href="https://youtu.be/dQw4w9WgXcQ"><img src="./assets/hentai.svg" alt="watch hentai" height="55"></a></div>
-<p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=annihilatorrrr&theme=juicyfresh&no-bg=true&no-frame=true&column=4&" alt="annihilatorrrr" /></a> </p>
-
-<br />
 
 #  📊 Stats
 ![](https://metrics.lecoq.io/greenfreezer?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
