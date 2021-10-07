@@ -20,14 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
-<ul>
-    <li>🔭 I’m currently working on <a href="https://t.me/AnimeSearchRobot">AnimeSearchBot</a> and you can see my <b>other works</b> <a href="https://t.me/WhySooSerious">here</a></li>
-    <li>🧐 Currently Learning about <strong>python</strong>, <strong>React</strong>, and a bit of <strong>Next.js</strong></li>
-    <li>👨‍💻 Most of my projects are <a href="https://github.com/EverythingSuckz/Private-Repositories">private</a>.</li>
-    <li>📺 I love <b>watching <a href="https://t.me/AnimeWatching">anime</a></b>.</li>
-    <li>💬 I mostly use <strong><a href="http://telegram.dog/EverythingSuckz" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
-    <li>💡 <s><b>Follow</b>ing <b>me</b> is WORTHLESS.</s></li>
-</ul>
+
 
 
 
@@ -86,10 +79,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://metrics.lecoq.io/greenfreezer?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 ---
 
-# 🔗 Contanct me via:
-<a href="https://github.com/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
-<a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
-</br>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
