@@ -33,13 +33,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2>🖥 Familiar Environments</h2>
-<p>
-    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" srcset=""></a>
-
-    <a href="https://www.microsoft.com/en-in/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="" srcset=""></a>
-    <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="" srcset=""></a>
-</p>
 
 
 
