@@ -29,11 +29,7 @@ You can click the Preview link to take a look at your changes.
     <li>💡 <s><b>Follow</b>ing <b>me</b> is WORTHLESS.</s></li>
 </ul>
 
-<h2>📌 Todo</h2>
 
-- [x] 💬Contributions
-- [ ] 🎓Completed my Studies
-- [x] 🎯Created My Own Repository
 
 
 
