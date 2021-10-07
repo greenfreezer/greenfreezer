@@ -12,11 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
     <a href="https://t.me/lusiya0"><img src="https://img.shields.io/badge/@green-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
-    <a href="mailto:me@jyothis.gq"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="" srcset=""></a>
-    <a href="https://twitter.com/JyothisJayanth"><img src="https://img.shields.io/badge/JyothisJayanth-30302f?style=flat-square&logo=twitter" alt="" srcset=""></a>
-</div>
 
-<h2>⚡️ A Few Quick Facts</h2>
+
 <br>
 <a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
