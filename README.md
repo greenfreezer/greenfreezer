@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
     <a href="https://t.me/lusiya0"><img src="https://img.shields.io/badge/@green-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
 
 
-<br>
-<a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 
 
