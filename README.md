@@ -3,6 +3,11 @@
 greenfreezer/greenfreezer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 <h1>Hi, I'm green <img src="https://i.pinimg.com/originals/a9/61/48/a96148e8d7de09c83133291d7c66e9be.gif" width="35px"></h1>
 <p>I'm Electronics Engineer from 🇮🇳. I'm learn new things!</p>
 <h3>Quick Links</h3>
