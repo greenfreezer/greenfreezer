@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-<h1>Hi, I'm green <img src="https://i.pinimg.com/originals/a9/61/48/a96148e8d7de09c83133291d7c66e9be.gif" width="35px"></h1>
+<h1>Hi, I'm MANIKANDAN <img src="https://i.pinimg.com/originals/a9/61/48/a96148e8d7de09c83133291d7c66e9be.gif" width="35px"></h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Electronics%20Engineer%20📡;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=adff2f&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20python%20learner%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=adff2f&vCenter=true&size=22"></a>
 </p>
 
 <h3>Quick Links</h3>
