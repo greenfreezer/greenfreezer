@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 id=lang>Languages / Frameworks/ Tools</h2>
 <p>
-    <a href="https://www.python.org/"><img src="https://www.keil.com/content/images/Arm_logo_white_150LG.png" alt=""></a>
+    <a href="https://www.python.org/"><img src="https://www.keil.com/content/images/Arm_logo_white_150LG.png" alt="" style="border-radius: 5px; height: 30px;></a>
   <a href="https://www.python.org/"><img src="https://www.mathworks.com/products/connections/product_detail/stm32-embedded-target/_jcr_content/descriptionImageParsys/image.adapt.full.medium.jpg/1693479465097.jpg" alt=""></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" srcset=""></a>
