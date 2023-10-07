@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 <h2 id=lang>Languages / Frameworks/ Tools</h2>
 <p>
     <a href="https://www.python.org/"><img src="https://www.keil.com/content/images/Arm_logo_white_150LG.png" alt="" style="border-radius: 5px; height: 30px;></a>
+                                        <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="" style="border-radius: 5px; height: 30px;></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" srcset=""></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="" srcset=""></a>
