@@ -34,6 +34,10 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.arm.com/"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=armkeil&logoSize=auto" alt="" style="border-radius: 20px; height: 30px; width="48%"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-black?style=for-the-badge&logo=micropython" alt=""></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-black?style=for-the-badge&logo=micropython" alt=""></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Raspberry%20pi%20-white?style=for-the-badge&logo=raspberrypi&logoColor=ff0000" alt=""></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-white?style=for-the-badge&logo=micropython&logoColor=black" alt=""></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-black?style=for-the-badge&logo=micropython" alt=""></a>
    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoSize=auto" alt=""></a>
    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoSize=auto" alt=""></a>
     <a href="https://www.arm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
