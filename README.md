@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <p>
     <a href="https://www.arm.com/"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=armkeil&logoSize=auto" alt="" style="border-radius: 20px; height: 30px; width="48%"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
-   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-black?style=for-the-badge&logo=micropython" alt=""></a>
+   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Raspberry%20Pi-f62c2c?style=for-the-badge&logo=raspberrypi&logoColor=black" alt=""></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-black?style=for-the-badge&logo=micropython" alt=""></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Raspberry%20pi%20-white?style=for-the-badge&logo=raspberrypi&logoColor=ff0000" alt=""></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/MicroPython%20-white?style=for-the-badge&logo=micropython&logoColor=black" alt=""></a>
