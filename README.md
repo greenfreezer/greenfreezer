@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 id=lang>Languages / Frameworks/ Tools</h2>
 <p>
-    <a href="https://www.arm.com/"><img src="https://www.arm.com/-/media/global/logos/arm-logo-white-rgb.svg?rev=d98f22d309c84813a9d8434c89710774&revision=d98f22d3-09c8-4813-a9d8-434c89710774&la=en&hash=F1E43458BEACE2D252CAFC6A46D8B95D" alt="" style="border-radius: 20px; height: 30px; width="48%"></a>
+    <a href="https://www.arm.com/"><img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=armkeil&logoSize=auto" alt="" style="border-radius: 20px; height: 30px; width="48%"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
     <a href="https://www.arm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
     <a href="https://www.arm.com/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
