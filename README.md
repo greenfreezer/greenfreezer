@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.arm.com/"><img src="https://www.arm.com/-/media/global/logos/arm-logo-white-rgb.svg?rev=d98f22d309c84813a9d8434c89710774&revision=d98f22d3-09c8-4813-a9d8-434c89710774&la=en&hash=F1E43458BEACE2D252CAFC6A46D8B95D" alt="" style="border-radius: 20px; height: 30px; width="48%"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
     <a href="https://www.arm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
-    <a href="https://www.arm.com/"><img src="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
+    <a href="https://www.arm.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fskills.microchip.com%2Fcourse-2-introduction-to-the-mplab-x-integrated-development-environment-ide&psig=AOvVaw3fA6A06XRxGbNrW8qc4kK-&ust=1747505441890000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIix1JzLqI0DFQAAAAAdAAAAABAE" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
 
   
   <!--
