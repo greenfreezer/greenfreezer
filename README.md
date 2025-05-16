@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 <h2 id=lang>Languages / Frameworks/ Tools</h2>
 <p>
     <a href="https://www.arm.com/"><img src="https://www.arm.com/-/media/global/logos/arm-logo-white-rgb.svg?rev=d98f22d309c84813a9d8434c89710774&revision=d98f22d3-09c8-4813-a9d8-434c89710774&la=en&hash=F1E43458BEACE2D252CAFC6A46D8B95D" alt="" style="border-radius: 20px; height: 30px; width="48%"></a>
-  <a href="https://www.arm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-yellow" alt=""></a>
+    <a href="https://www.arm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="" style="border-radius: 20px; height: 40px; width="60%"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" srcset=""></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset=""></a>
