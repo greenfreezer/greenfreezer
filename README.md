@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--<img src="https://count.getloli.com/get/@greenfreezer?theme=booru-lewd" alt="" srcset="" align="right">-->
+<img src="https://count.getloli.com/get/@greenfreezer?theme=booru-lewd" alt="" srcset="" align="right">
 
 
 
